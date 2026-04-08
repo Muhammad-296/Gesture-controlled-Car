@@ -262,9 +262,6 @@ glovecar/
 │   └── receiver.ino       # Car firmware (RF24 + motors + servos + ultrasonic)
 ├── transmitter/
 │   └── transmitter.ino    # Glove firmware (MPU6050 + joystick + RF24 TX)
-├── docs/
-│   ├── wiring_car.png     # Car wiring diagram
-│   └── wiring_glove.png   # Glove wiring diagram
 └── README.md
 ```
 
